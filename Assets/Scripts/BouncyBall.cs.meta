@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: af72f11acf89e17418849fa9e0a6b62e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - paintingSplatter: {fileID: 21300000, guid: 0b3bb56e1df93be4a85b9697050a01b2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
